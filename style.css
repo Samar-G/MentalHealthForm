@@ -1,0 +1,89 @@
+body{
+    background-color: rgb(27, 133, 133);
+}
+
+h2{
+    background-color: rgb(190, 231, 217);
+    padding: 45px;
+    margin: 70px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    width: 68%;
+    box-shadow: 6px 7px rgb(2, 58, 58);
+    /* box-shadow: 10px 10px 20px 10px rgb(2, 58, 58); */
+}
+
+.Q{
+    font-weight: bold;
+    /* margin-bottom: 20px; */
+}
+
+div {
+    background-color: aliceblue;
+    margin: 70px;
+    padding: 30px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-radius: 5px;
+    width: 69.9%;
+    margin-left: 13.1%;
+    box-shadow: 4px 4px rgb(190, 231, 217);
+    /* box-shadow: 2px 2px 20px 2px rgb(2, 22, 15); */
+}
+
+#end{
+    width: 4.5%;
+    /* float: right; */
+    margin-right: 13.5%;
+    margin-left: 10px;
+}
+
+#reset{
+    width: 4.5%;
+    /* float: left; */
+    margin-left: 73.5%;
+    margin-right: 0;
+}
+
+#reset, #end{
+    /* padding-right: 7px; */
+    padding: 5px;
+    margin-bottom: 20px;
+    display: inline-block;
+    box-shadow: none;
+    background-color: rgb(190, 231, 217);
+    margin-top: 0;
+}
+button, .butSub{
+    width: 70px;
+    height: 30px;
+    /* background-color: rgb(159, 225, 228); */
+    background-color: rgb(27, 133, 133);
+    color: aliceblue;
+}
+
+fieldset{
+    border: 2px solid rgb(2, 58, 58);
+    width: 71%;
+    margin: 70px;
+    margin-left: 13.5%;
+}
+
+.field div{
+    margin: 0;
+    width: 90%;
+    margin-left: 2.2%;
+}
+
+legend{
+    color: rgb(231, 249, 255);
+}
+
+#long-text input{
+    width: 470px;
+}
+
+.smaller{
+    font-size: 15px;
+}
